@@ -86,8 +86,8 @@ video{min-width: 100%;min-height: 100%;}
 }
 .our-offices-map .location-marker {
     position: absolute;
-    width: 28px;
-    height: 28px;
+    width: 2vh;
+    height: 2vh;
     border-radius: 14px;
     background: #ff5a00;
     animation: pulse 2s infinite;
