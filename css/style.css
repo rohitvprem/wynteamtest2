@@ -75,6 +75,10 @@ body {
 video {
     width : 100%;
 }
+.gmap-section {
+	width: 100%
+}
+
 .gmap-section iframe{
 	width: 100%;
 }
