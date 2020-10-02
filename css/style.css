@@ -1851,7 +1851,7 @@ p {
 	float: right;
 	z-index: 9;
 	position: relative;
-	padding: 0 0 14% 14%;
+	padding: 7px;
 }
 .about-slider-images-section-inner img {
     border: 20px solid #FFFFFF;
