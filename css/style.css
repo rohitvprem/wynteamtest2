@@ -77,6 +77,40 @@ video{min-width: 100%;min-height: 100%;}
 	width: 100%
 }
 
+
+/*dotted map start*/
+.our-offices-map .map-wrapper {
+    position: relative;
+    width: 1140px;
+    height: 609px;
+    display: inline-block;
+}
+.our-offices-map .location-marker {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    border-radius: 14px;
+    background: #ff5a00;
+    animation: pulse 2s infinite;
+}
+#location-marker-21087 {
+    animation-delay: 869ms;
+}
+.justify-content-center {
+    -ms-flex-pack: center!important;
+    justify-content: center!important;
+}
+.map-row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+/*dotted map end*/ 
+
+
 .gmap-section iframe{
 	width: 100%;
 }
