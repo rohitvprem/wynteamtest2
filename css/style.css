@@ -81,8 +81,7 @@ video{min-width: 100%;min-height: 100%;}
 /*dotted map start*/
 .our-offices-map .map-wrapper {
     position: relative;
-    width: 1140px;
-    height: 609px;
+    width: 100%;
     display: inline-block;
 }
 .our-offices-map .location-marker {
@@ -107,6 +106,15 @@ video{min-width: 100%;min-height: 100%;}
     flex-wrap: wrap;
     margin-right: -15px;
     margin-left: -15px;
+}
+.map-pre-wrapper {
+    width:100%;
+}
+.our-offices-map-body {
+    width: 100%;
+}
+.map-wrapper img {
+    width: 100%;
 }
 /*dotted map end*/ 
 
